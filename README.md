@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayswaryalakshmi
+- 👋 Hi, I’m Ayswaryalakshmi
 - 👀 I’m interested in community engagement, tech for good and innovative solutions that create real-world impact.
 - 🌱 I’m currently learning advanced concepts in Computer Science.
 - 💞️ I’m looking to collaborate on tech projects, community initiatives, open-source opportunities
