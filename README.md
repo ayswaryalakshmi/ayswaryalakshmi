@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayswaryalakshmi
-- 👀 I’m interested in ommunity engagement, tech for good and innovative solutions that create real-world impact.
+- 👀 I’m interested in community engagement, tech for good and innovative solutions that create real-world impact.
 - 🌱 I’m currently learning advanced concepts in Computer Science.
 - 💞️ I’m looking to collaborate on tech projects, community initiatives, open-source opportunities
 - 📫 How to reach me ayswaryalm@gmail.com.
